@@ -1,0 +1,3 @@
+/home/sergio/P3 PROBAR/cmake-build-debug/CMakeFiles/sergio.dir
+/home/sergio/P3 PROBAR/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergio/P3 PROBAR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
